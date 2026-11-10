@@ -1,4 +1,4 @@
-# Notepad++ — Dracula Theme + VS Code Style
+# IDE Notepad++ — Dracula Theme + VS Code Style
 
 Personalização do Notepad++ com inspiração visual no Visual Studio Code, utilizando o tema Dracula, fontes monoespaçadas e configurações voltadas ao desenvolvimento de software.
 
