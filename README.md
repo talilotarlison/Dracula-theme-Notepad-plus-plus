@@ -190,7 +190,7 @@ O arquivo `config.xml` armazena diversas preferências do Notepad++, como config
 5. Copie o novo arquivo para essa pasta.
 6. Abra novamente o Notepad++.
 
-**Importante:** não utilize um `config.xml` genérico sem verificar sua compatibilidade com a versão instalada. O arquivo pode conter configurações específicas da instalação, plugins e preferências que não devem ser sobrescritas sem análise.
+**Importante:** não utilize um `config.xml` genérico sem verificar sua compatibilidade com a versão instalada. O arquivo pode conter configurações específicas da instalação, plugins e preferências que não devem ser sobrescritas sem análise. Para ficar com estilos de pastas do projeto aqui apresentado, certifique-se de esta com um versão atuaalizada da IDE Notepad++ superior a versão (npp.8.9.9.Installer.x64.exe)  Notepad++, usada nesse projeto. 
 
 ### 4.2. Como instalar o stylers.xml
 
