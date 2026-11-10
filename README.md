@@ -9,6 +9,7 @@ O objetivo é proporcionar um ambiente de programação moderno, confortável e 
 ![Visualização do tema Dracula no Notepad++](image.png)
 
 ---
+ Imagem: Notepad++ ( npp.8.9.9.Installer.x64.exe)
 
 ## 1. Tema Dracula
 
