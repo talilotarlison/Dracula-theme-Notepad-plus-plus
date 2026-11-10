@@ -4,6 +4,10 @@ Personalização do Notepad++ com inspiração visual no Visual Studio Code, uti
 
 O objetivo é proporcionar um ambiente de programação moderno, confortável e organizado, mantendo a leveza e a simplicidade do Notepad++.
 
+## Preview
+
+![Visualização do tema Dracula no Notepad++](image.png)
+
 ---
 
 ## 1. Tema Dracula
@@ -186,7 +190,7 @@ O arquivo `config.xml` armazena diversas preferências do Notepad++, como config
 5. Copie o novo arquivo para essa pasta.
 6. Abra novamente o Notepad++.
 
-**Importante:** não utilize um `config.xml` genérico sem verificar sua compatibilidade com a versão instalada. O arquivo pode conter configurações específicas da instalação, plugins e preferências pessoais.
+**Importante:** não utilize um `config.xml` genérico sem verificar sua compatibilidade com a versão instalada. O arquivo pode conter configurações específicas da instalação, plugins e preferências que não devem ser sobrescritas sem análise.
 
 ### 4.2. Como instalar o stylers.xml
 
